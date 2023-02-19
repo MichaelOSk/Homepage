@@ -1,2 +1,2 @@
-# Homepage
-the root
+# Practce
+It contains practice for golang. And more
